@@ -1,0 +1,162 @@
+body{
+   background-color: #000000;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.portada{
+        padding-bottom: 20%;
+        padding-top: 20%;
+        background-image: url(layered-waves-haikei.svg);
+        background-color: #344b71;
+        background-size: cover;
+        
+       
+}
+
+
+
+.nombreDescripicon{
+    background: #c84376;
+    background: -webkit-linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    background: linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
+
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+}
+
+.nombreDescripicon > h1{
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    color: #000000;
+    opacity: 1;
+    
+}
+
+#nombre{
+    font-family: Arial, Helvetica, sans-serif;
+	font-stretch: condensed;
+}
+
+
+
+nav{
+    position: sticky;
+    top: 0;
+}
+
+.botonesGuia{
+    display: flex;
+    padding-top: 20px;
+    margin-left: 20%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+    
+    
+}
+
+.botonesGuia > div {
+    background: #24b66b;
+    background: -webkit-linear-gradient(77deg, #24b66b 0%, #2b72cf 100%);
+    background: linear-gradient(77deg, #24b66b 0%, #2b72cf 100%);
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    margin: 0 45px;
+    max-width: 100%;
+    
+ 
+
+    
+}
+
+a{
+  color: aliceblue;
+  text-decoration: none;
+}
+
+
+
+.habilidadesYConocimineto{
+    background: #c84376;
+    background: -webkit-linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    background: linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
+
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    align-items: center;
+    padding: 5px 0px 5px 0px;
+    
+}
+
+
+
+.educacion{
+    background: #c84376;
+    background: -webkit-linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    background: linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
+
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    align-items: center;
+    padding: 5px 0px 5px 0px;
+    
+    justify-content: center;
+}
+
+.educacion  table{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.perfilesSociales{
+    background: #c84376;
+    background: -webkit-linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    background: linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
+
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    align-items: center;
+    padding: 5px 0px 5px 0px;
+    
+    justify-content: center;
+}
+
+.contactar{
+    background: #c84376;
+    background: -webkit-linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    background: linear-gradient(180deg, #c84376 0%, #d65754 100%);
+    -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
+
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    align-items: center;
+    padding: 5px 0px 5px 0px;
+    
+    justify-content: center;
+}
